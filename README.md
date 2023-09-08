@@ -20,12 +20,6 @@ This function removes duplicates from a sequence (list or tuple) while preservin
 
 This function counts the frequency of words in a sentence, ignoring punctuation and case.
 
-## Usage
-
-1. Clone the repository:
-```
-$ git clone git@github.com:Mwasigwa2/datastructure-alogarithms-assesment.git
-```
 ## LICENSE
 MIT License
 
