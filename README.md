@@ -28,5 +28,4 @@ $ git clone git@github.com:Mwasigwa2/datastructure-alogarithms-assesment.git
 ```
 ## LICENSE
 MIT License
-Copyright (c) 2023 Mwasigwa Gathirimu 
-# Data-structure-and-algorithms
+
